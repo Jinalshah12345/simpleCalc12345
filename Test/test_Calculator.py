@@ -1,6 +1,6 @@
 import unittest
 import pytest
-from simplecalculator.simpleCalculatorr import simplecalculator
+from simpleCalculatorr import simplecalculator
 
 
 class test_Calculator(unittest.TestCase):
